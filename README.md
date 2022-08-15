@@ -4,11 +4,10 @@
 ## Background
 It’s a beautiful spring day, and it’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 In this assigment we will perform data modeling, data engineering, and data analysis.
-
-# Data modelling 
+# data modelling
 We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables.
 
-#Data Engineering
+##Data Engineering
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 * For the primary keys, verify that the column is unique. Otherwise, create a [composite key](https://en.wikipedia.org/wiki/Compound_key), which takes two primary keys to uniquely identify a row.
