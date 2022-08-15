@@ -1,13 +1,13 @@
 # SQL_CHALLENGE
 ![image](https://user-images.githubusercontent.com/106934375/184683362-08437777-7cf0-416b-9099-967c6b47001b.png)
 
-# Background
+## Background
 It’s a beautiful spring day, and it’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 In this assigment we will perform data modeling, data engineering, and data analysis.
-# data modelling
+## Data modelling
 We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables.
 
-# Data Engineering
+## Data Engineering
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 * For the primary keys, verify that the column is unique. Otherwise, create a [composite key](https://en.wikipedia.org/wiki/Compound_key), which takes two primary keys to uniquely identify a row.
@@ -16,7 +16,7 @@ We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables.
 
 * Import each CSV file into the corresponding SQL table. 
 
-# Data Analysis
+## Data Analysis
 Once we have completed the database, we  will perform these steps:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
