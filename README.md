@@ -8,7 +8,7 @@ In this assigment we will perform data modeling, data engineering, and data anal
 # Data modelling 
 We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables.
 
-#### Data Engineering
+#Data Engineering
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
 * For the primary keys, verify that the column is unique. Otherwise, create a [composite key](https://en.wikipedia.org/wiki/Compound_key), which takes two primary keys to uniquely identify a row.
@@ -17,8 +17,7 @@ We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables.
 
 * Import each CSV file into the corresponding SQL table. 
 
-#### Data Analysis
-
+#Data Analysis
 Once we have completed the database, we  will perform these steps:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
