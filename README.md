@@ -7,8 +7,7 @@ In this assigment we will perform data modeling, data engineering, and data anal
 
 ## Data Modelling
 We used Lucidchart to inspect the CSVs and sketch out an ERD of the tables at the aim to describe and specify the relationship between entities.
-
-https://lucid.app/lucidchart/58e87868-e9c2-4979-9bd5-e9fc17d74a7c/edit?page=0_0&invitationId=inv_813ae7b5-908b-4d6c-a0ef-39bb371b1f29#
+![image](https://user-images.githubusercontent.com/106934375/184779182-e0d8fd7c-a736-4c9f-bb10-723472cc7231.png)
 
 ## Data Engineering
 * Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
